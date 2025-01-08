@@ -12,22 +12,15 @@ The preparation for the **ADsP** certification took several months, during which
    - I studied the official **ADsP book**, which included topics such as data preprocessing, statistical analysis, machine learning, and data visualization. This was supplemented with online courses on platforms like Coursera and edX that offered hands-on exercises and quizzes to solidify my understanding.
 
 2. **Hands-on Projects**:
-   - Throughout the preparation, I worked on various **real-world data analysis projects**, where I applied the concepts I learned in practice. These projects involved working with datasets, performing exploratory data analysis (EDA), feature engineering, and building predictive models.
    - I also participated in group study sessions with peers, discussing complex concepts and solving data science challenges together.
 
 3. **Mock Exams and Review**:
    - I took several **mock exams** to simulate the real exam environment. These practice tests helped me refine my understanding and identify areas where I needed further study. 
    - In particular, I focused on **model evaluation** and **statistical tests**, revisiting topics I found challenging.
 
-### Certification Exam Experience
-The **ADsP exam** consists of multiple-choice questions and practical exercises that assess both theoretical knowledge and hands-on data science skills. The exam covered topics such as:
-- Data preprocessing
-- Statistical techniques for data analysis
-- Machine learning algorithms
-- Data visualization and interpretation
-
 ### Outcome and Reflection
-I successfully obtained the **ADsP** certification. This experience significantly boosted my confidence in applying data science techniques to real-world problems. I gained a deeper understanding of data analysis and statistical modeling, which I have since applied to my coursework and personal projects.
+I successfully obtained the **ADsP** certification. This experience significantly boosted my confidence in applying data science techniques to real-world problems. I plan to deepen my knowledge in advanced data analytics and machine learning. I will focus on applying machine learning algorithms to real-world datasets to build predictive models that can provide valuable insights and support business decisions. 
+then, I aim to further expand my expertise in Big Data technologies, such as Hadoop and Apache Spark, to efficiently process and analyze large-scale datasets. 
 
 ---
 ### Short
